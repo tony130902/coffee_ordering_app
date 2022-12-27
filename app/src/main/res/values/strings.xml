@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Ordering App</string>
+    <string name="welcome_to_coffee_house">Welcome To Coffee House</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="_2">2</string>
+    <string name="_25">25</string>
+    <string name="price">Price</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="order_now">Order Now</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="scrollView">scrollView</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="customer_name">Customer Name</string>
+</resources>

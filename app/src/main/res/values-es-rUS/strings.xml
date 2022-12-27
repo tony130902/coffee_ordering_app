@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Ordering app</string>
+    <string name="welcome_to_coffee_house" translatable="false">Bienvenido a la cafetería</string>
+    <string name="quantity">cantidad</string>
+    <string name="price">precio</string>
+    <string name="order_now">ordenar ahora</string>
+    <string name="whipped_cream">crema batida</string>
+    <string name="chocolate">chocolate</string>
+    <string name="customer_name">Nombre del cliente</string>
+    <string name="scrollView">vista de desplazamiento</string>
+    <string name="order_summary">resumen del pedido</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="_25">25</string>
+    <string name="_2">2</string>
+</resources>
